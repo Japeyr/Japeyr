@@ -17,6 +17,6 @@ A lo largo de mi carrera, he trabajado con una variedad de tecnologías y herram
 #### Gestores de Administración de Proyectos: ![Static Badge](https://img.shields.io/badge/Jira-skyblue) ![Static Badge](https://img.shields.io/badge/Xray-violet) ![Static Badge](https://img.shields.io/badge/Test--Monitor-beige)
 
 ## Hablemos 
-Si lo que buscas es alguien apasionado, que no solo haga su trabajo sino que también se esfuerce por aprender, mejorar y contribuir al éxito del equipo, me encantaría conectar contigo. Puedes encontrarme en LinkedIn o revisar algunos de mis proyectos en mi GitHub.
+Si lo que buscas es alguien apasionado, que no solo haga su trabajo sino que también se esfuerce por aprender, mejorar y contribuir al éxito del equipo, me encantaría conectar contigo. Puedes encontrarme en LinkedIn, revisar mi proyecto de veterinaria en mi GitHub o hacer click en el siguiente enlace para ver mis habilidades como QA Tester.
 
 #### Mis Proyectos de QA Tester: https://peppermint-perigee-9b6.notion.site/Portafolio-Jorge-Peyrano-QA-Tester-28ff0d4de8bc42b6a5d8af29fcb083f1?pvs=4
