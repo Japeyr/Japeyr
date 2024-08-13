@@ -9,11 +9,11 @@ Lo que más me motiva es la posibilidad de aprender algo nuevo cada día. Soy de
 ## Mis Herramientas
 A lo largo de mi carrera, he trabajado con una variedad de tecnologías y herramientas. Entre ellas:
 
-### Lenguajes de programación: C, Visual Basic, HTML5, CSS3, Javascript, PHP y Python.
-### Frameworks: Django y Bootstrap.
-### Bases de Datos: SQL Server y MySQL.
-### Herramientas de Desarrollo: Visual Studio Code, Visual Studio 2022, PyCharm.
-### Gestores de Administración de Proyectos: Jira, Xray, TestMonitor
+#### Lenguajes de programación: C, Visual Basic, HTML5, CSS3, Javascript, PHP y Python.
+#### Frameworks: Django y Bootstrap.
+#### Bases de Datos: SQL Server y MySQL.
+#### Herramientas de Desarrollo: Visual Studio Code, Visual Studio 2022, PyCharm.
+#### Gestores de Administración de Proyectos: Jira, Xray, TestMonitor
 
 ## Hablemos
 Si lo que buscas es alguien apasionado, que no solo haga su trabajo sino que también se esfuerce por aprender, mejorar y contribuir al éxito del equipo, me encantaría conectar contigo. Puedes encontrarme en LinkedIn o revisar algunos de mis proyectos en mi GitHub.
