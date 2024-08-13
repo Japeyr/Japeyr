@@ -1,3 +1,4 @@
+![MasterHead](https://newfutureit.com.au/wp-content/uploads/2020/05/img-break-3.jpg)
 # Hola, soy Jorge Peyrano 👋
 Soy un entusiasta de la tecnología que siempre está buscando el próximo desafío para resolver. Con una sólida formación en programación, sistemas y testing manual, me gusta pensar en mí mismo como alguien que no solo sigue las reglas, sino que también disfruta explorando nuevas formas de hacer las cosas mejor.
 
