@@ -19,4 +19,4 @@ A lo largo de mi carrera, he trabajado con una variedad de tecnologías y herram
 ## Hablemos 
 Si lo que buscas es alguien apasionado, que no solo haga su trabajo sino que también se esfuerce por aprender, mejorar y contribuir al éxito del equipo, me encantaría conectar contigo. Puedes encontrarme en LinkedIn, revisar mi proyecto de veterinaria en mi GitHub o hacer click en el siguiente enlace para ver mis habilidades como QA Tester.
 
-#### Mis Proyectos de QA Tester: https://peppermint-perigee-9b6.notion.site/Portafolio-Jorge-Peyrano-QA-Tester-28ff0d4de8bc42b6a5d8af29fcb083f1?pvs=4![Logo de GitHub](https://github.com/)
+#### Mis Proyectos de QA Tester: ![Logo de Notion](https://raw.githubusercontent.com/Japeyr/JorgePeyrano/ba8aa36f5a931de15cca1fc60768ace2e874d7fa/Notion.jpg) https://peppermint-perigee-9b6.notion.site/Portafolio-Jorge-Peyrano-QA-Tester-28ff0d4de8bc42b6a5d8af29fcb083f1?pvs=4!
