@@ -22,15 +22,17 @@ Si lo que buscas es alguien apasionado, que no solo haga su trabajo sino que tam
 <table>
   <tr>
     <td>
-      #### Mis Proyectos de QA Tester
+      Mis Proyectos de QA Tester
     </td>
     <td>
-      [![Logo de Notion](https://github.com/Japeyr/JorgePeyrano/blob/main/Notion.jpg?raw=true)](https://peppermint-perigee-9b6.notion.site/Portafolio-Jorge-Peyrano-QA-Tester-28ff0d4de8bc42b6a5d8af29fcb083f1?pvs=4)
+      <a href="https://peppermint-perigee-9b6.notion.site/Portafolio-Jorge-Peyrano-QA-Tester-28ff0d4de8bc42b6a5d8af29fcb083f1?pvs=4">
+        <img src="https://github.com/Japeyr/JorgePeyrano/blob/main/Notion.jpg?raw=true" width="50" height="50">
+      </a>
     </td>
   </tr>
   <tr>
     <td>
-      #### Mi LinkedIn
+      Mi LinkedIn
     </td>
     <td>
       [![Logo de LinkedIn](https://github.com/Japeyr/JorgePeyrano/blob/main/icons8-logotipo-de-linkedin-48.png?raw=true)](https://www.linkedin.com/in/jorge-peyrano)
