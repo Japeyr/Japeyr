@@ -10,7 +10,7 @@ Lo que más me motiva es la posibilidad de aprender algo nuevo cada día. Soy de
 ## Mis Herramientas
 A lo largo de mi carrera, he trabajado con una variedad de tecnologías y herramientas. Entre ellas:
 
-#### Lenguajes de programación: ![Static Badge](https://img.shields.io/badge/C-yellow) ![Static Badge](https://img.shields.io/badge/Visual--Basic-green) ![Static Badge](https://img.shields.io/badge/HTML5-blue) ![Static Badge](https://img.shields.io/badge/CSS3-red) ![Static Badge](https://img.shields.io/badge/Javascript-orange) ![Static Badge](https://img.shields.io/badge/PHP-skyblue) ![Static Badge](https://img.shields.io/badge/Python-violet)
+#### Lenguajes de programación: ![Static Badge](https://img.shields.io/badge/C-yellow) ![Static Badge](https://img.shields.io/badge/C_Sharp-teal)![Static Badge](https://img.shields.io/badge/Visual--Basic-green) ![Static Badge](https://img.shields.io/badge/HTML5-blue) ![Static Badge](https://img.shields.io/badge/CSS3-red) ![Static Badge](https://img.shields.io/badge/Javascript-orange) ![Static Badge](https://img.shields.io/badge/PHP-skyblue) ![Static Badge](https://img.shields.io/badge/Python-violet)
 #### Frameworks: ![Static Badge](https://img.shields.io/badge/Django-beige) ![Static Badge](https://img.shields.io/badge/Boostrap5-black)
 #### Bases de Datos: ![Static Badge](https://img.shields.io/badge/SQL--Server-yellow) ![Static Badge](https://img.shields.io/badge/MySQL-green)
 #### Herramientas de Desarrollo: ![Static Badge](https://img.shields.io/badge/Visual--Studio--Code-blue) ![Static Badge](https://img.shields.io/badge/Visual--Studio--2022-red) ![Static Badge](https://img.shields.io/badge/PyCharm-orange)
