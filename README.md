@@ -26,4 +26,4 @@ Si lo que buscas es alguien apasionado, que no solo haga su trabajo sino que tam
 |--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Mi LinkedIn**                | [![LinkedIn](https://github.com/Japeyr/JorgePeyrano/blob/main/icons8-logotipo-de-linkedin-48.png?raw=true)](https://www.linkedin.com/in/jorge-peyrano)             |
 | **QA Tester en No Country**                  | [![No Country](https://github.com/Japeyr/JorgePeyrano/blob/main/No%20Country.png?raw=true)](https://github.com/No-Country-simulation/c20-44-n-java-react) 
-| **Testing Automation BairesQA** | [![Selenium](https://github.com/Japeyr/JorgePeyrano/blob/main/logo_selenium.png?raw=true)](https://github.com/Japeyr/JorgePeyrano) |
+| **Testing Automation BairesQA** | [![Selenium](https://github.com/Japeyr/JorgePeyrano/blob/main/logo_selenium.png?raw=true)]([https://github.com/Japeyr/JorgePeyrano](https://github.com/Japeyr/TesteoBairesQA)) |
