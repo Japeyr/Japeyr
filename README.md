@@ -25,5 +25,5 @@ Si lo que buscas es alguien apasionado, que no solo haga su trabajo sino que tam
 | **Mis Proyectos de QA Tester Manual** | [![Notion](https://github.com/Japeyr/JorgePeyrano/blob/main/Notion.jpg?raw=true)](https://peppermint-perigee-9b6.notion.site/Portafolio-Jorge-Peyrano-QA-Tester-28ff0d4de8bc42b6a5d8af29fcb083f1?pvs=4) |
 |--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Mi LinkedIn**                | [![LinkedIn](https://github.com/Japeyr/JorgePeyrano/blob/main/icons8-logotipo-de-linkedin-48.png?raw=true)](https://www.linkedin.com/in/jorge-peyrano)             |
-| **QA Tester en No Country**                  | [![No Country](https://github.com/Japeyr/JorgePeyrano/blob/main/No%20Country.png?raw=true)](https://github.com/No-Country-simulation/c20-44-n-java-react)                                              |
-
+| **QA Tester en No Country**                  | [![No Country](https://github.com/Japeyr/JorgePeyrano/blob/main/No%20Country.png?raw=true)](https://github.com/No-Country-simulation/c20-44-n-java-react) 
+| **Testing Automation BairesQA** | [![Selenium](https://github.com/Japeyr/JorgePeyrano/blob/main/logo_selenium.png?raw=true)](https://github.com/Japeyr/JorgePeyrano) |
