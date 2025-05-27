@@ -27,3 +27,6 @@ Si lo que buscas es alguien apasionado, que no solo haga su trabajo sino que tam
 | **Mi LinkedIn**                | [![LinkedIn](https://github.com/Japeyr/JorgePeyrano/blob/main/icons8-logotipo-de-linkedin-48.png?raw=true)](https://www.linkedin.com/in/jorge-peyrano)             |
 | **QA Tester en No Country**                  | [![No Country](https://github.com/Japeyr/JorgePeyrano/blob/main/No%20Country.png?raw=true)](https://github.com/No-Country-simulation/c20-44-n-java-react) 
 | **Testing Automation BairesQA** | [![Selenium](https://github.com/Japeyr/JorgePeyrano/blob/main/logo_selenium.png?raw=true)](https://github.com/Japeyr/TesteoBairesQA) |
+| **Proyecto Veterinaria** | [![Veterinaria](https://github.com/Japeyr/JorgePeyrano/blob/main/Veterinariaj.png?raw=true)](https://github.com/Japeyr/Veterinaria) |
+| **Proyecto Sistema Salud** | [![Salud](https://github.com/Japeyr/JorgePeyrano/blob/main/cruz.png?raw=true)](https://github.com/Japeyr/SistemaSalud) |
+| **Proyecto Scraping Supermercado** | [![Selenium](https://github.com/Japeyr/JorgePeyrano/blob/main/la%20gallega.png?raw=true)](https://github.com/Japeyr/web_scraping_supermercado) |
