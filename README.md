@@ -1,7 +1,7 @@
 <img align="right" width="1250" src="https://github.com/Japeyr/JorgePeyrano/blob/main/banner%20coda.jpg" >
 
 # Hola, soy Jorge Peyrano 👋
-<img align="right" width="125" src="https://github.com/Japeyr/JorgePeyrano/blob/main/JorgitoPerfil2.png" >Soy un entusiasta de la tecnología que siempre está buscando el próximo desafío para resolver. Con una sólida formación en programación, sistemas y testing manual, me gusta pensar en mí mismo como alguien que no solo sigue las reglas, sino que también disfruta explorando nuevas formas de hacer las cosas mejor.
+<img align="right" width="125" src="https://github.com/Japeyr/JorgePeyrano/blob/main/JorgitoPerfil2.png" >Soy un entusiasta de la tecnología que siempre está buscando el próximo desafío para resolver. Con una sólida formación en programación, sistemas y testing manual, me gusta pensar en mí mismo como alguien que no solo sigue las reglas, sino que también disfruta explorando nuevas formas de hacer las cosas mejor..
 
 ## Un Poco Sobre Mí
 Desde que recuerdo, he estado fascinado por cómo las cosas funcionan por debajo del capó, sobre todo en tecnología. Eso me llevó a especializarme en programación y sistemas, pero no me quedé ahí. Descubrí el mundo del testing manual y fue como encontrar una pieza faltante en mi rompecabezas profesional. Me encanta la idea de ser la persona que se asegura de que todo funcione a la perfección, porque sé lo importante que es para un proyecto salir al mundo sin errores.<img width="220" align="left" src="https://github.com/Japeyr/JorgePeyrano/blob/main/testing.jpg" alt="Pruebas e2e">
