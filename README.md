@@ -11,13 +11,13 @@ Lo que más me motiva es la posibilidad de aprender algo nuevo cada día. Soy de
 ## Mis Herramientas
 A lo largo de mi carrera, he trabajado con una variedad de tecnologías y herramientas. Entre ellas:
 
-#### Lenguajes de programación: ![Static Badge](https://img.shields.io/badge/C-yellow) ![Static Badge](https://img.shields.io/badge/C_Sharp-teal)![Static Badge](https://img.shields.io/badge/Visual--Basic-green) ![Static Badge](https://img.shields.io/badge/HTML5-blue) ![Static Badge](https://img.shields.io/badge/CSS3-red) ![Static Badge](https://img.shields.io/badge/Javascript-orange) ![Static Badge](https://img.shields.io/badge/PHP-skyblue) ![Static Badge](https://img.shields.io/badge/Python-violet)
-#### Frameworks: ![Static Badge](https://img.shields.io/badge/Django-beige) ![Static Badge](https://img.shields.io/badge/Boostrap5-black)
-#### Bases de Datos: ![Static Badge](https://img.shields.io/badge/SQL--Server-yellow) ![Static Badge](https://img.shields.io/badge/MySQL-green)
-#### Herramientas de Desarrollo: ![Static Badge](https://img.shields.io/badge/Visual--Studio--Code-blue) ![Static Badge](https://img.shields.io/badge/Visual--Studio--2022-red) ![Static Badge](https://img.shields.io/badge/PyCharm-orange)
-#### Gestores de Administración de Proyectos: ![Static Badge](https://img.shields.io/badge/Jira-skyblue) ![Static Badge](https://img.shields.io/badge/Xray-violet) ![Static Badge](https://img.shields.io/badge/Test--Monitor-beige)
-#### Gestor de Versiones: ![Static Badge](https://img.shields.io/badge/Git-red)![Static Badge](https://img.shields.io/badge/GitHub-green)
-#### Herramientas de Automatización: ![Static Badge](https://img.shields.io/badge/Selenium-orange)
+### Lenguajes de programación: ![LenguajeC](https://github.com/Japeyr/JorgePeyrano/blob/main/Lenguaje%20C.png?raw=true)![CSharp](https://github.com/Japeyr/JorgePeyrano/blob/main/Csharp.png?raw=true)![VisualBasic](https://github.com/Japeyr/JorgePeyrano/blob/main/Visual%20Basic.jpg?raw=true)![html5](https://github.com/Japeyr/JorgePeyrano/blob/main/html5.jpg?raw=true)![css3](https://github.com/Japeyr/JorgePeyrano/blob/main/CSS3.jpg?raw=true)![javascript](https://github.com/Japeyr/JorgePeyrano/blob/main/Javascript.jpg?raw=true)![php](https://github.com/Japeyr/JorgePeyrano/blob/main/php.jpg?raw=true)![python](https://github.com/Japeyr/JorgePeyrano/blob/main/Python.jpg?raw=true)
+### Frameworks: ![django](https://github.com/Japeyr/JorgePeyrano/blob/main/Django.jpg?raw=true)![bootstrap5](https://github.com/Japeyr/JorgePeyrano/blob/main/Bootstrap%205.jpg?raw=true)
+### Bases de Datos: ![sqlserver](https://github.com/Japeyr/JorgePeyrano/blob/main/SQL%20Server.jpg?raw=true)![mysql](https://github.com/Japeyr/JorgePeyrano/blob/main/MySQL.jpg?raw=true)
+### Herramientas de Desarrollo: ![visualstudiocode](https://github.com/Japeyr/JorgePeyrano/blob/main/Visual%20Studio%20Code.jpg?raw=true)![visualstudiocode2022](https://github.com/Japeyr/JorgePeyrano/blob/main/Visual%20Studio%20Code%202022.jpg?raw=true)![pycharm](https://github.com/Japeyr/JorgePeyrano/blob/main/pycharm.jpg?raw=true)
+### Gestores de Administración de Proyectos: ![jira](https://github.com/Japeyr/JorgePeyrano/blob/main/JIRA.jpg?raw=true)![xray](https://github.com/Japeyr/JorgePeyrano/blob/main/xray.png?raw=true)![testmonitor](https://github.com/Japeyr/JorgePeyrano/blob/main/test-monitor.png?raw=true)
+### Gestor de Versiones: ![git](https://github.com/Japeyr/JorgePeyrano/blob/main/Git.jpg?raw=true)![github](https://github.com/Japeyr/JorgePeyrano/blob/main/github.jpg?raw=true)
+### Herramientas de Automatización: ![Selenium](https://github.com/Japeyr/JorgePeyrano/blob/main/logo_selenium.png?raw=true)
 
 ## Hablemos 
 Si lo que buscas es alguien apasionado, que no solo haga su trabajo sino que también se esfuerce por aprender, mejorar y contribuir al éxito del equipo, me encantaría conectar contigo. Puedes encontrarme en LinkedIn, revisar mis proyectos haciendo click en el cualquiera de los siguientes enlaces para ver mis habilidades.
