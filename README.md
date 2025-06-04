@@ -16,6 +16,7 @@ A lo largo de mi carrera, he trabajado con una variedad de tecnologías y herram
 ### Bases de Datos: ![sqlserver](https://github.com/Japeyr/JorgePeyrano/blob/main/SQL%20Server.jpg?raw=true)![mysql](https://github.com/Japeyr/JorgePeyrano/blob/main/MySQL.jpg?raw=true)
 ### Herramientas de Desarrollo: ![visualstudiocode](https://github.com/Japeyr/JorgePeyrano/blob/main/Visual%20Studio%20Code.jpg?raw=true)![visualstudiocode2022](https://github.com/Japeyr/JorgePeyrano/blob/main/Visual%20Studio%20Code%202022.jpg?raw=true)![pycharm](https://github.com/Japeyr/JorgePeyrano/blob/main/pycharm.jpg?raw=true)
 ### Gestores de Administración de Proyectos: ![jira](https://github.com/Japeyr/JorgePeyrano/blob/main/JIRA.jpg?raw=true)![xray](https://github.com/Japeyr/JorgePeyrano/blob/main/xray.png?raw=true)![testmonitor](https://github.com/Japeyr/JorgePeyrano/blob/main/test-monitor.png?raw=true)
+### Software de Pruebas de Api: ![postman](https://github.com/Japeyr/JorgePeyrano/blob/main/postman.png?raw=true)
 ### Gestor de Versiones: ![git](https://github.com/Japeyr/JorgePeyrano/blob/main/Git.jpg?raw=true)![github](https://github.com/Japeyr/JorgePeyrano/blob/main/github.jpg?raw=true)
 ### Herramientas de Automatización: ![Selenium](https://github.com/Japeyr/JorgePeyrano/blob/main/logo_selenium.png?raw=true)
 
