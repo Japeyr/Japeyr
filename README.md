@@ -31,3 +31,4 @@ Si lo que buscas es alguien apasionado, que no solo haga su trabajo sino que tam
 | **Proyecto Veterinaria** | [![Veterinaria](https://github.com/Japeyr/JorgePeyrano/blob/main/Veterinariaj.png?raw=true)](https://github.com/Japeyr/Veterinaria) |
 | **Proyecto Sistema Salud** | [![Salud](https://github.com/Japeyr/JorgePeyrano/blob/main/cruz.png?raw=true)](https://github.com/Japeyr/SistemaSalud) |
 | **Proyecto Scraping Supermercado** | [![Selenium](https://github.com/Japeyr/JorgePeyrano/blob/main/la%20gallega.png?raw=true)](https://github.com/Japeyr/web_scraping_supermercado) |
+| **Proyecto Sistema de Gestión de Negocio** | [![bolsa de compra](https://github.com/Japeyr/JorgePeyrano/blob/main/bolsa-de-la-compra.png?raw=true)](https://github.com/Japeyr/Negocio) |
